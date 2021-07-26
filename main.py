@@ -45,4 +45,6 @@ async def ping(ctx):
 
 
 DISCORD_BOT_TOKEN = os.environ.get("DISCORD_BOT_TOKEN")
-bot.run(DISCORD_BOT_TOKEN)
+
+if __name__ == "__main__":
+    bot.run(DISCORD_BOT_TOKEN)

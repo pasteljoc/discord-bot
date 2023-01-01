@@ -14,7 +14,7 @@ load_dotenv()
 from santoral import Santoral
 
 # Definitions
-santoral=Santoral("./db/db.db")
+santoral=Santoral("./db/db.csv")
 
 bot=commands.Bot(command_prefix="!", description="this is a jarf's helper bot")
 

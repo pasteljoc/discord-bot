@@ -1,0 +1,366 @@
+mes;dia;santo
+1;1;María, Madre de Dios
+1;2;Basilio, Gregorio
+1;3;Genoveva
+1;4;Yolando, Rigoberto
+1;5;Emilia
+1;6;Wilma, Melanio
+1;7;Raimundo
+1;8;Luciano, Eladio
+1;9;Lucrecia
+1;10;Gonzalo
+1;11;Alejandro
+1;12;Julián
+1;13;Hilario
+1;14;Félix
+1;15;Raquel, Mauro
+1;16;Marcelo
+1;17;Antonio, Guido
+1;18;Prisca - Priscila
+1;19;Mario
+1;20;Sebastián, Fabián
+1;21;Inés
+1;22;Laura Vicuña, Vicente
+1;23;Virginia
+1;24;Francisco de Sales
+1;25;Elvira
+1;26;Timoteo, Tito, Paula - Paola
+1;27;Ángela Merici
+1;28;Tomás de Aquino
+1;29;Valerio 30 Martina
+1;31;Juan Bosco, Marcela
+2;1;Severiano
+2;2;Presentación del Señor
+2;3;Blas, Oscar
+2;4;Gilberto
+2;5;Agueda
+2;6;Doris, Pablo Miki
+2;7;Gastón
+2;8;Jerónimo Emiliano, Jacqueline
+2;9;Rebeca
+2;10;Escolástica
+2;11;N.Sra. de Lourdes
+2;12;Panfilio, Pamela
+2;13;Batriz
+2;14;Cirilo, Metodio, Valentino
+2;15;Fausto-ino, Jovita
+2;16;Samuel
+2;17;Alexis
+2;18;Bernardita
+2;19;Álvaro
+2;20;Eleuterio, Claudio
+2;21;Pedro Daminán, Severino
+2;22;Eleonora, Nora
+2;23;Florencio
+2;24;Rubén, Sergio
+2;25;Néstor
+2;26;Augusto
+2;27;Leandro, Gabriel Dol
+2;28;Román
+2;29;Ups hoy no hay santoral
+3;1;Rosendo
+3;2;Lucio
+3;3;Celedonio
+3;4;Ariel
+3;5;Olivia
+3;6;Elcira
+3;7;Perpétua, Felicidad
+3;8;Juan de Dios
+3;9;Francisca Romana
+3;10;Macario
+3;11;Eulogio
+3;12;Norma
+3;13;Rodrigo
+3;14;Matilde
+3;15;Luisa de Marillac
+3;16;Heriberto
+3;17;Patricio
+3;18;Cirilo
+3;19;José
+3;20;Alejandra
+3;21;Eugenia
+3;22;Lea
+3;23;Dimas
+3;24;Elba, Catalina de Suecia
+3;25;Anunciación
+3;26;Braulio
+3;27;Ruperto
+3;28;Octavio
+3;29;Gladys
+3;30;Artemio
+3;31;Benjamín, Balbina
+4;1;Hugo
+4;2;Sandra, Francisco de Paula
+4;3;Ricardo
+4;4;Isidoro
+4;5;Vicente Ferrer
+4;6;Edith
+4;7;Juan Bautista de La Salle
+4;8;Constanza
+4;9;Demetrio
+4;10;Ezequiel
+4;11;Estanislao
+4;12;Arnoldo, Julio
+4;13;Martín, Aída
+4;14;Máximo
+4;15;Crescente
+4;16;Flavio
+4;17;Leopoldo, Aniceto
+4;18;Wladimir
+4;19;Ema
+4;20;Edgardo
+4;21;Anselmo
+4;22;Karina
+4;23;Jorge
+4;24;Fidel
+4;25;Marcos
+4;26;Cleto, Marcelino
+4;27;Zita, Toribio de Mogrovejo
+4;28;Valeria
+4;29;Catalina de Siena
+4;30;Amador, Pío V
+5;1;José Obrero
+5;2;Atanasio, Boris
+5;3;Santa Cruz
+5;4;Felipe y Santiago
+5;5;Judit
+5;6;Eleodoro
+5;7;Domitila
+5;8;Segundo
+5;9;Isaías
+5;10;Antonino-a, Solange
+5;11;Estela
+5;12;Pancracio, Nereo, Aquiles
+5;13;N.S. Fátima
+5;14;Matías
+5;15;Isidro, Denise
+5;16;Honorato
+5;17;Pascual Bailón
+5;18;Erica, Corina
+5;19;Yvo-ne
+5;20;Bernardino de Siena
+5;21;Constantino
+5;22;Rita
+5;23;Desiderio
+5;24;María Auxiliadora, Susana
+5;25;Beda, Gregorio, Ma.Magdalena de Pazzi
+5;26;Mariana
+5;27;Emilio, Agustín de Cantorbery
+5;28;Germán
+5;29;Maximiano, Hilda
+5;30;Fernando/Hernán, Juana de Arco, Lorena
+5;31;Visitación
+6;1;Justino, Juvenal
+6;2;Marcelino, Erasmo
+6;3;Maximiliano, Carlos Lwanga
+6;4;Frida
+6;5;Bonifacio, Salvador
+6;6;Norberto
+6;7;Claudio
+6;8;Armando
+6;9;Efr&eacuten
+6;10;Paulina
+6;11;Bernabé, Trinidad
+6;12;Onofre
+6;13;Antonio
+6;14;Eliseo
+6;15;Leonidas, Manuela, Micaela
+6;16;Aurelio
+6;17;Ismael
+6;18;Salom&oacuten
+6;19;Romualdo
+6;20;Florentino
+6;21;Raul, Rodolfo, Lu&iacutes Gonzaga
+6;22;Paulino de Nola, Tomáss Moro, Juan Fisher
+6;23;Marcial
+6;24;Juan Bautista
+6;25;Guillermo
+6;26;Pelayo
+6;27;Cirilo
+6;28;Ireneo
+6;29;Pedro y Pablo
+6;30;Adolfo
+7;1;Ester
+7;2;Gloria
+7;3;Tomás
+7;4;Isabel, Eliana, Liliana
+7;5;Antonio-María, Berta
+7;6;María Goretti
+7;7;Fermín
+7;8;Eugenio
+7;9;Verónica
+7;10;Elías
+7;11;Benito
+7;12;Filomena
+7;13;Teresa de los Andes, Enrique, Joel
+7;14;Camilo de Lelis
+7;15;Buenaventura, Julio/a
+7;16;Carmen
+7;17;Carolina
+7;18;Federico
+7;19;Arsenio
+7;20;Marina
+7;21;Daniel
+7;22;María Magdalena
+7;23;Brigida
+7;24;Cristina
+7;25;Santiago
+7;26;Joaquín, Ana
+7;27;Natalia
+7;28;Celso
+7;29;Marta
+7;30;Abdón y Senén
+7;31;Ignacio de Loyola
+8;1;Alfonso María de Ligorio
+8;2;Eusebio
+8;3;Lydia
+8;4;Juan María Vianney
+8;5;Osvaldo, Nieves
+8;6;(Transfiguración)
+8;7;Sixto, Cayetano
+8;8;Domingo de Guzmán
+8;9;Justo
+8;10;Lorenzo
+8;11;Clara de Asís
+8;12;Laura
+8;13;Víctor
+8;14;Maximiliano Kolbe, Alfredo
+8;15;Asunción
+8;16;Esteban de Hungría, Roque
+8;17;Jacinto
+8;18;Alberto Hurtado, Elena, Nelly, Leticia
+8;19;Mariano
+8;20;Bernardo
+8;21;Pío X, Graciela
+8;22;María Reina
+8;23;Donato
+8;24;Bartolomé
+8;25;Luís (rey), José Calasanz
+8;26;Teresa de Jesús Jornet e Ibars, César
+8;27;Mónica
+8;28;Agustín
+8;29;Juan Bautista, Sabina
+8;30;Rosa de Lima
+8;31;Ramón
+9;1;Arturo
+9;2;Moisés
+9;3;Gregorio Magno
+9;4;Irma
+9;5;Victorino
+9;6;Eva, Evelyne
+9;7;Regina
+9;8;Natividad de la Virgen
+9;9;Sergio y Omar
+9;10;Nicolás de Tolentino, Adalberto
+9;11;Orlando, Rolando
+9;12;María
+9;13;Juan Crisóstomo
+9;14;Imelda
+9;15;N.Sra.de Dolores
+9;16;Cornelio, Cipriano
+9;17;Roberto Belarmino
+9;18;José de Cupertino
+9;19;Jenaro
+9;20;Amelia, Andrés Kim y Pablo Tung
+9;21;Mateo
+9;22;Mauricio
+9;23;Lino y Tecla
+9;24;N.Sra.del Carmen
+9;25;Aurelio
+9;26;Cosme y Damián
+9;27;Vicente de Paul
+9;28;Wenceslao
+9;29;Miguel, Gabriel y Rafael
+9;30;Jerónimo
+10;1;Teresita del Niño Jesús
+10;2;Angeles Custodios
+10;3;Gerardo
+10;4;Francisco de Asís
+10;5;Flor
+10;6;Bruno
+10;7;N.Sra.del Rosario
+10;8;N.Sra.de Begoña
+10;9;"Dionisio; Juan Leonardi"
+10;10;Francisco de Borja
+10;11;Soledad
+10;12;N.Sra.del Pilar
+10;13;Eduardo
+10;14;Calixto
+10;15;Teresa de Avila
+10;16;Eduvigis, Margarita Ma.Alacoque
+10;17;Ignacio de Antioquía
+10;18;Lucas
+10;19;Pablo de la Cruz, Renato
+10;20;Irene
+10;21;Úrsula
+10;22;Sara
+10;23;Juan Capistrano, Remigio
+10;24;Antonio Ma.Claret
+10;25;Olga
+10;26;Darío
+10;27;Gustavo
+10;28;Simón, Judas
+10;29;Narciso
+10;30;Alonso
+10;31;Quintin
+11;1;Todos los Santos
+11;2;Todos los Fieles difuntos
+11;3;Martín de Porres
+11;4;Carlos Borromeo
+11;5;Silvia
+11;6;Leonardo
+11;7;Ernesto-ina
+11;8;Ninfa, Godofredo
+11;9;Teodoro
+11;10;León Magno
+11;11;Martín de Tours
+11;12;Cristián
+11;13;Diego
+11;14;Humberto
+11;15;Alberto Magno
+11;16;Margarita, Gertrudis
+11;17;Isabel de Hungría
+11;18;Elsa
+11;19;Andrés Avelino
+11;20;Edmundo
+11;21;Presentación de la Virgen
+11;22;Cecilia
+11;23;Clemento, Columbano
+11;24;Flora, Andrés Dung-Lac
+11;25;Catalina Labouré
+11;26;Delfina
+11;27;Virgilio
+11;28;Blanca
+11;29;Saturnino
+11;30;Andrés
+12;1;Florencia
+12;2;Viviana
+12;3;Francisco Javier
+12;4;Juan Damaceno, Bárbara
+12;5;Ada
+12;6;Nicolás
+12;7;Ambrosio
+12;8;Inmaculada Concepción
+12;9;Jéssica
+12;10;N. Sra. de Loreto, Eulalia
+12;11;Dámaso
+12;12;N. Sra. de Guadalupe
+12;13;Lucía
+12;14;Juan de la Cruz
+12;15;Reinaldo
+12;16;Alicia
+12;17;Lázaro
+12;18;Sonia
+12;19;Urbano
+12;20;Abrahám, Isaac, Jacob
+12;21;Pedro Canisio
+12;22;Fabiola
+12;23;Victoria
+12;24;Adela
+12;25;Natividad del Señor (Noel, Noelia)
+12;26;Esteban
+12;27;Juan
+12;28;Stos. Inocentes
+12;29;Tomás Becket, David
+12;30;Rogelio
+12;31;Silvestre
